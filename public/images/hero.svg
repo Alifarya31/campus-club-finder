@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520">
+  <rect width="640" height="520" rx="44" fill="#cfe8ec"/>
+  <circle cx="500" cy="110" r="58" fill="#f2a541"/>
+
+  <circle cx="86" cy="96" r="42" fill="#fbf8f1"/>
+  <circle cx="86" cy="96" r="20" fill="none" stroke="#e36a5d" stroke-width="9" stroke-dasharray="7.9 7.9"/>
+  <circle cx="86" cy="96" r="11" fill="#e36a5d"/>
+
+  <circle cx="300" cy="62" r="40" fill="#fbf8f1"/>
+  <ellipse cx="292" cy="76" rx="12" ry="9" transform="rotate(-20 292 76)" fill="#0f4c5c"/>
+  <rect x="302" y="44" width="5" height="32" rx="2.5" fill="#0f4c5c"/>
+  <polygon points="302,44 322,50 322,60 302,54" fill="#0f4c5c"/>
+
+  <circle cx="574" cy="258" r="40" fill="#fbf8f1"/>
+  <polygon points="552,278 572,238 584,258 592,246 600,278" fill="#0f4c5c"/>
+
+  <rect x="0" y="420" width="640" height="100" rx="0" fill="#5fa879"/>
+  <path d="M0 520 V420 H640 V520 Z" fill="#5fa879"/>
+
+  <polygon points="320,172 168,252 472,252" fill="#0f4c5c"/>
+  <rect x="168" y="252" width="304" height="18" fill="#0a3641"/>
+  <rect x="184" y="270" width="272" height="150" fill="#fbf8f1"/>
+  <rect x="196" y="270" width="22" height="150" fill="#e3dccd"/>
+  <rect x="254" y="270" width="22" height="150" fill="#e3dccd"/>
+  <rect x="364" y="270" width="22" height="150" fill="#e3dccd"/>
+  <rect x="422" y="270" width="22" height="150" fill="#e3dccd"/>
+  <rect x="290" y="326" width="60" height="94" rx="30" fill="#0f4c5c"/>
+  <circle cx="320" cy="224" r="16" fill="#f2a541"/>
+
+  <rect x="68" y="404" width="9" height="30" fill="#6b4a2f"/>
+  <circle cx="72" cy="380" r="34" fill="#0a3641"/>
+  <circle cx="98" cy="396" r="24" fill="#0f4c5c"/>
+  <rect x="560" y="404" width="9" height="30" fill="#6b4a2f"/>
+  <circle cx="564" cy="380" r="34" fill="#0a3641"/>
+  <circle cx="540" cy="396" r="24" fill="#0f4c5c"/>
+
+  <g>
+    <circle cx="150" cy="418" r="15" fill="#f4c9a0"/>
+    <rect x="132" y="432" width="36" height="58" rx="16" fill="#e36a5d"/>
+    <circle cx="232" cy="428" r="15" fill="#c98f63"/>
+    <rect x="214" y="442" width="36" height="52" rx="16" fill="#f2a541"/>
+    <circle cx="410" cy="428" r="15" fill="#8a5a3a"/>
+    <rect x="392" y="442" width="36" height="52" rx="16" fill="#0f4c5c"/>
+    <circle cx="492" cy="418" r="15" fill="#f4c9a0"/>
+    <rect x="474" y="432" width="36" height="58" rx="16" fill="#fbf8f1"/>
+  </g>
+</svg>

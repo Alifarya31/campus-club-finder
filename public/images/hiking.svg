@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#dff0e0"/>
+  <circle cx="630" cy="108" r="52" fill="#f2a541"/>
+
+  <polygon points="0,360 170,160 300,300 450,190 620,340 720,250 800,330 800,500 0,500" fill="#a9d3b8"/>
+  <polygon points="170,160 144,198 170,188 194,201" fill="#ffffff"/>
+  <polygon points="450,190 426,224 450,214 474,226" fill="#ffffff"/>
+
+  <path d="M0 424 Q200 340 410 402 T800 384 V500 H0 Z" fill="#5fa879"/>
+  <path d="M110 500 Q300 446 392 414 T640 368" fill="none" stroke="#fbf8f1" stroke-width="14" stroke-linecap="round" stroke-dasharray="1 26"/>
+
+  <rect x="104" y="408" width="10" height="26" fill="#6b4a2f"/>
+  <polygon points="109,340 76,414 142,414" fill="#0f4c5c"/>
+  <polygon points="109,370 70,436 148,436" fill="#0f4c5c"/>
+  <rect x="164" y="428" width="9" height="22" fill="#6b4a2f"/>
+  <polygon points="168,372 140,432 196,432" fill="#0a3641"/>
+  <rect x="700" y="410" width="10" height="26" fill="#6b4a2f"/>
+  <polygon points="705,344 672,418 738,418" fill="#0f4c5c"/>
+  <polygon points="705,374 666,440 744,440" fill="#0f4c5c"/>
+
+  <line x1="508" y1="344" x2="518" y2="420" stroke="#6b4a2f" stroke-width="5" stroke-linecap="round"/>
+  <rect x="456" y="344" width="22" height="44" rx="8" fill="#e36a5d"/>
+  <rect x="470" y="340" width="32" height="54" rx="12" fill="#0f4c5c"/>
+  <line x1="480" y1="392" x2="470" y2="430" stroke="#0a3641" stroke-width="12" stroke-linecap="round"/>
+  <line x1="494" y1="392" x2="504" y2="430" stroke="#0a3641" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="488" cy="322" r="15" fill="#f4c9a0"/>
+  <path d="M470 318 a18 18 0 0 1 36 0z" fill="#f2a541"/>
+  <rect x="464" y="316" width="48" height="6" rx="3" fill="#f2a541"/>
+</svg>

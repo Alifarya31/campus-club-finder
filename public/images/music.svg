@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#fbe3df"/>
+
+  <circle cx="290" cy="256" r="178" fill="#17262b"/>
+  <circle cx="290" cy="256" r="148" fill="none" stroke="#2f4248" stroke-width="3"/>
+  <circle cx="290" cy="256" r="124" fill="none" stroke="#2f4248" stroke-width="3"/>
+  <circle cx="290" cy="256" r="100" fill="none" stroke="#2f4248" stroke-width="3"/>
+  <path d="M170 150 A150 150 0 0 1 260 112" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round" opacity=".25"/>
+  <circle cx="290" cy="256" r="64" fill="#f2a541"/>
+  <circle cx="290" cy="256" r="44" fill="none" stroke="#e36a5d" stroke-width="5"/>
+  <circle cx="290" cy="256" r="11" fill="#17262b"/>
+
+  <ellipse cx="560" cy="348" rx="38" ry="28" transform="rotate(-20 560 348)" fill="#0f4c5c"/>
+  <rect x="588" y="168" width="12" height="176" rx="6" fill="#0f4c5c"/>
+  <ellipse cx="690" cy="388" rx="38" ry="28" transform="rotate(-20 690 388)" fill="#0f4c5c"/>
+  <rect x="718" y="204" width="12" height="176" rx="6" fill="#0f4c5c"/>
+  <polygon points="588,168 730,204 730,244 588,208" fill="#0f4c5c"/>
+
+  <circle cx="620" cy="90" r="16" fill="#e36a5d"/>
+  <circle cx="520" cy="200" r="9" fill="#f2a541"/>
+  <circle cx="750" cy="120" r="8" fill="#17262b"/>
+  <path d="M90 420 l6 -18 l6 18 l18 6 l-18 6 l-6 18 l-6 -18 l-18 -6z" fill="#e36a5d"/>
+</svg>
